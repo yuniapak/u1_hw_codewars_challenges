@@ -1,5 +1,7 @@
 # Introduction To Codewars
 
+![Codewars](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.wW8sg4sEIu9PU-iq9Ds2mQHaCh%26pid%3DApi&f=1)
+
 ## Overview
 
 Codewars is an interactive platform used to practice coding challenges that you may see in interviews. For this homework, you'll be completing 5 problems on Codewars. These are 8 kyu which is the easiest difficulty level.
