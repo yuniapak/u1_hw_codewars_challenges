@@ -1,4 +1,4 @@
-# Introduction To Codewars
+# Introduction to Codewars
 
 ![Codewars](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.wW8sg4sEIu9PU-iq9Ds2mQHaCh%26pid%3DApi&f=1)
 
@@ -9,7 +9,8 @@ Codewars is an interactive platform used to practice coding challenges that you 
 ## Getting Started
 
 - Fork and Clone this repo
-- Put your answer for each problem in the provided `solution.md` in it's corresponding area. You'll be adding your solution code inside of the provided code snippets.
+- Put your answer for each problem in the provided `solution.md` in it's corresponding area. You'll be adding your solution code inside of the provided code snippets
+- Feel free to create a Codewars account
 
 ## Problem 1
 
