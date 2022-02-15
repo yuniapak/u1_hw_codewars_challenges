@@ -34,4 +34,4 @@ Codewars is an interactive platform used to practice coding challenges that you 
 
 ## Submission
 
-- Submit your your pull request following these guidelines: [PR Guidelines](https://github.com/SEI-R-4-26/template_pull_request)
+- Submit your your pull request following these guidelines: [PR Guidelines](https://github.com/SEI-R-2-22/template_pull_request)
